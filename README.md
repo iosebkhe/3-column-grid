@@ -11,6 +11,8 @@ This is a solution to the [3-column preview card component](https://www.frontend
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/3-column-grid-zIQ_giHOv)
 - Live Site URL: [https://3colgrid-iosebkhe.netlify.app/)
 
+### Created with
+
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
