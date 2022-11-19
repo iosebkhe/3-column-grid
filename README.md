@@ -17,6 +17,7 @@ This is a solution to the [3-column preview card component](https://www.frontend
 - CSS Grid
 - Mobile-first workflow
 
+
 ## Author
 
 - CodePen - [@iosebkhe](https://codepen.io/iosebkhe)
